@@ -22,7 +22,9 @@ This project is designed to simulate a **production-like cloud deployment workfl
 4. ECS cluster (EC2-backed) pulls image from ECR  
 5. Container runs on EC2 instance  
 6. Logs and metrics sent to CloudWatch  
-7. IAM roles manage secure access between services  
+7. IAM roles manage secure access between services
+8. <img width="1621" height="735" alt="image" src="https://github.com/user-attachments/assets/0bb81c8d-9b85-4f38-8263-8ba4a92fda82" />
+
 
 ---
 
